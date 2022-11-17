@@ -32,4 +32,4 @@
 
 ---
 # 전시 포스터
-<img src = https://user-images.githubusercontent.com/65931605/202187144-c3f75008-b5e3-4619-b3bb-ec29de0d75f5.png height=500 width=350>
+<img src = https://user-images.githubusercontent.com/65931605/202471036-33ee7719-68c4-4f4b-9d27-f112cc4abce8.png height=500 width=350>
