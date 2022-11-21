@@ -5,7 +5,7 @@
 <img src = https://user-images.githubusercontent.com/65931605/202079493-76116fbd-7084-468d-af79-50ebdba34e6c.png height=85 width=200>
 
 + 충전 중이라 이동할 수 없는 우주 가정용 로봇이 멀리 떨어진 소포를 집는 게임
-+ 원작 "La Madriguera"을 모티브로 하여 제작함
++ "La Madriguera"를 오마주 하여 제작함
 
 ---
 
